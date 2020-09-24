@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+            "name": "pics",
+            "module":"pics",
+            "type": "python",
+            "request": "launch",
+            "console": "integratedTerminal"
+        },{
+            "name": "calculate",
+            "module":"calculate",
+            "type": "python",
+            "request": "launch",
+            "console": "integratedTerminal"
+        }
+    ]
+}
